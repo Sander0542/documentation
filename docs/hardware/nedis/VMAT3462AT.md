@@ -8,14 +8,14 @@ Connect 4 sources, such as a game console or multimedia player, to this Nedis ma
 
 ## Infrared (IR) Remote
 
-![Nedis VMAT3462AT Remote](/assets/hardware/nedis/VMAT3462AT-remote.png){ width="200" }
+![Nedis VMAT3462AT Remote](../../assets/hardware/nedis/VMAT3462AT-remote.png){ width="200" }
 
 ### Button mapping
 
 The IR Remote uses the NEC protocol to send IR signals to the HDMI Switch. In the following table each button is described with their corresponding Protocol, Address and Command.
 
 !!! note
-    The NEC protocol uses 8 bit signals. Some libraries (like ESPHome) require you to to write them in full.
+    The NEC protocol uses 8 bit signals. Some libraries (like [ESPHome](https://esphome.io/)) require you to to write them in full.
 
     [Source](https://community.home-assistant.io/t/esp-home-ir-transmitter-sending-onkyo-format-instead-of-nec/478514/2)
 
