@@ -1,3 +1,10 @@
+---
+tags:
+  - Nedis
+  - HDMI
+  - Infrared
+---
+
 # Nedis VMAT3462AT
 
 HDMI™ Matrix Switch
@@ -15,6 +22,7 @@ Connect 4 sources, such as a game console or multimedia player, to this Nedis ma
 The IR Remote uses the NEC protocol to send IR signals to the HDMI Switch. In the following table each button is described with their corresponding Protocol, Address and Command.
 
 !!! note
+
     The NEC protocol uses 8 bit signals. Some libraries (like [ESPHome](https://esphome.io/)) require you to to write them in full.
 
     [Source](https://community.home-assistant.io/t/esp-home-ir-transmitter-sending-onkyo-format-instead-of-nec/478514/2)
@@ -55,6 +63,6 @@ The IR Remote uses the NEC protocol to send IR signals to the HDMI Switch. In th
 
 [Source (nedis.com)](https://nedis.com/en-us/product/cables-and-adapters/video/hdmi-devices/550715207/hdmi-matrix-switch-4-x-2-ports-4x-hdmi-input-2x-hdmi-output-4k-at-30hz-34-gbps-remote-controlled-metal-anthracite)
 
--   **Brand**: Nedis
--   **Vendor Part Number**: VMAT3462AT
--   **EAN number**: 5412810319985
+- **Brand**: Nedis
+- **Vendor Part Number**: VMAT3462AT
+- **EAN number**: 5412810319985
