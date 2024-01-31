@@ -4,7 +4,7 @@ site_url: https://docs.sanderjochems.com
 repo_url: https://github.com/Sander0542/documentation
 repo_name: Sander0542/documentation
 
-edit_uri: docs/
+edit_uri: tree/main/docs/
 
 theme:
   name: material
@@ -50,3 +50,4 @@ markdown_extensions:
 plugins:
   - offline
   - search
+  - social

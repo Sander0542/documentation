@@ -6,12 +6,14 @@
         {
             "label": "serve",
             "type": "shell",
-            "command": "mkdocs serve"
+            "command": "mkdocs serve",
+            "problemMatcher": []
         },
         {
             "label": "build",
             "type": "shell",
-            "command": "mkdocs build"
+            "command": "mkdocs build",
+            "problemMatcher": []
         }
     ]
 }
