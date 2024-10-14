@@ -1,3 +1,3 @@
 mkdocs==1.6.1
-mkdocs-material[imaging]==9.5.39
+mkdocs-material[imaging]==9.5.40
 mkdocs-include-markdown-plugin==6.2.2
