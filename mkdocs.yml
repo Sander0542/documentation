@@ -56,8 +56,7 @@ plugins:
   - include-markdown
   - search
   - social
-  - tags:
-      tags_file: tags.md
+  - tags
 
 extra:
   social:
